@@ -1,0 +1,5 @@
+{
+    "model": "bert",
+    "doc_type": "PASSPORT",
+    "confidence": 0.60
+}

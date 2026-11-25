@@ -1,0 +1,10 @@
+{
+    "snils_number": {
+        "value": "112-233-445 95",
+        "method": "regex"
+    },
+    "fio": {
+        "value": "Иванов Иван Иванович",
+        "method": "ner"
+    }
+}
